@@ -1,0 +1,6 @@
+Tweet a random pokemon fact at a certain interval.
+
+The source of the facts is TBD.
+For now, we will be building a twitter bot that tweets every line from a file.
+
+New plan: tweet every line from a Shakespeare play.
